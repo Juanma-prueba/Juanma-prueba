@@ -1,4 +1,4 @@
-# SOBRE MI
+ # SOBRE MI
 
 - 👋 Hola soy Juanma
 - 👀 Estoy interesado en aprender programación
