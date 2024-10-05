@@ -1,3 +1,5 @@
+# SOBRE MI
+
 - 👋 Hola soy Juanma
 - 👀 Estoy interesado en aprender programación
 - 🌱 Actualmente estoy cursando un Modulo Fp Superior a Distancia de Diseño de aplicaciones multiplataforma
