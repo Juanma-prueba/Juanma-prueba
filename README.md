@@ -1,4 +1,4 @@
- # ¿Hola! Mi nombre es <mark>Juanma=</mark> y os voy a presentar mi perfil de GitHub.
+ # ¿Hola! Mi nombre es <mark>Juanma</mark> y os voy a presentar mi perfil de GitHub.
 
  ___
 
@@ -18,7 +18,7 @@
  - Itinerario personal para la empleabilidad
    
 
-*Os dejo un video informativo sobre el curso*  ------->  [:question:](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp
+*Os dejo un video informativo sobre el curso*  ------->  [:question:](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
 
 ___
 
@@ -27,9 +27,9 @@ ___
 | **Lenguaje de Marcas** | **Bases de Datos** | **Entornos de Desarrollo** | **Programación** |
 | ---------------------- | ------------------ | -------------------------- | ---------------- |
 | Markdown               | MySql              | Framwroks                  | Java             |
-| YAML                   | MariaDB            | Máquinas Virtuales         |
-| Latex y SVG            |                    |
-| HTML                   |                    |
+| YAML                   | MariaDB            | Máquinas Virtuales         |                  |
+| Latex y SVG            |                    |                            |                  |
+| HTML                   |:fire:              |:sweat_drops:               |:star:            |
 
 - **Lenguaje de Marcas**
   - Markdown
