@@ -47,12 +47,14 @@ ___
 
 ### Lenguajes de programación
 
-- Visual Basic
-- Delphi
 - Html
 - Php
 - Asp
 - Java
+- C#
+- Visual Basic
+- Delphi
+
 
 
   
