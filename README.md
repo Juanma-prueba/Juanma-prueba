@@ -57,6 +57,8 @@ ___
 - [**Android**](https://www.android.com/intl/es_es/)
 
 ![foto sistemas operativos](https://www.areatecnologia.com/informatica/imagenes/so.jpg)
+
+ ___
  
  ### [Microsoft Office](https://www.office.com/)
 
@@ -67,6 +69,8 @@ ___
   - Outlook
 
 ![foto office](https://as1.ftcdn.net/v2/jpg/05/83/83/20/1000_F_583832001_xlT7SoeStI743XpTQ2vErW44KJXz2orm.jpg)
+
+___
 
 ### Lenguajes de programación
 
@@ -80,12 +84,16 @@ ___
 
 ![foto lenguaje de programacion](https://www.epitech-it.es/wp-content/uploads/2023/09/Lenguaje-de-programacion-facil.jpg)
 
+___
+
   ### Bases de Datos
 
   - MySql
   - Microsoft Access
 
 ![foto de bases de datos](https://www.microtech.es/hubfs/37228729_m.jpg)
+
+___
 
   
  
