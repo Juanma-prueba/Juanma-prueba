@@ -18,7 +18,7 @@
  - Itinerario personal para la empleabilidad
    
 
-*Os dejo un video informativo sobre el curso*  ------->  [🎓](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
+*Os dejo un video informativo sobre el curso*  ------->  [:question:](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
 
 ___
 
