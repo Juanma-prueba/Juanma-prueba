@@ -6,7 +6,7 @@
 
  Actualmente estudiando un [**Ciclo Formativo de Grado Superior**](https://www.todofp.es/que-estudiar/ciclos/grado-superior.html) en la modalidad de [**Desarrollo de Aplicaciones Multiplataforma**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html). a distancia en el centro [**CIFPD La Conservera Ceutí**](https://sites.google.com/view/fplaconservera)
 
- ## Asignaturas Matrículadas
+ ## <mark>Asignaturas Matrículadas</mark>
 
  - Lenguaje de Marcas
  - Entornos de Desarrollo
@@ -22,7 +22,7 @@
 
 ___
 
-## Stack Tecnológico del Curso
+## <mark>Stack Tecnológico del Curso</mark>
 
 | **Lenguaje de Marcas** | **Bases de Datos** | **Entornos de Desarrollo** | **Programación** |
 | ---------------------- | ------------------ | -------------------------- | ---------------- |
@@ -53,7 +53,7 @@ ___
 
 ___
 
-## Stack Tecnológico Conocido
+## <mark>Stack Tecnológico Conocido</mark>
 
 ### Sistemas Operativos
 
@@ -108,7 +108,7 @@ ___
 
   
  
- # SOBRE MI
+ # <mark>SOBRE MI</mark>
 
 - 👋 Hola soy Juanma
 - 👀 Estoy interesado en aprender programación
