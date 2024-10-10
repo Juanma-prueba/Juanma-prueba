@@ -55,6 +55,7 @@ ___
 - Visual Basic
 - Delphi
 
+![foto lenguaje de programacion](https://www.epitech-it.es/wp-content/uploads/2023/09/Lenguaje-de-programacion-facil.jpg)
 
 
   
