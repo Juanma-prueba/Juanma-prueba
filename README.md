@@ -29,12 +29,13 @@ ___
   - [*Mandrake*](https://www.mandrakelinux.org/)
   - [*Ubuntu*](https://ubuntu.com/download)
 
+- [Mac Os](https://www.apple.com/es/mac/)
 - [**iOS**](https://www.apple.com/es/ios/ios-18/)
 - [**Android**](https://www.android.com/intl/es_es/)
 
-![](/https://www.google.com/imgres?q=sistemas%20operativos&imgurl=https%3A%2F%2Fwww.areatecnologia.com%2Finformatica%2Fimagenes%2Fso.jpg&imgrefurl=https%3A%2F%2Fwww.areatecnologia.com%2Fsistemas-operativos.htm&docid=-B6QrLGzyjcSNM&tbnid=tFsuE-MEverFpM&vet=12ahUKEwjcltLFpoSJAxX3RfEDHYnLBh0QM3oFCIYBEAA..i&w=627&h=277&hcb=2&ved=2ahUKEwjcltLFpoSJAxX3RfEDHYnLBh0QM3oFCIYBEAA)
+![foto sistemas operativos](https://www.areatecnologia.com/informatica/imagenes/so.jpg)
  
- ![](/favicon.png)
+ ![foto](/favicon.png)
  
  
  # SOBRE MI
