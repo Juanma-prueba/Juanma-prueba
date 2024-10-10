@@ -29,7 +29,7 @@ ___
   - [*Mandrake*](https://www.mandrakelinux.org/)
   - [*Ubuntu*](https://ubuntu.com/download)
 
-- [Mac Os](https://www.apple.com/es/mac/)
+- [**Mac Os**](https://www.apple.com/es/mac/)
 - [**iOS**](https://www.apple.com/es/ios/ios-18/)
 - [**Android**](https://www.android.com/intl/es_es/)
 
