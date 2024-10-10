@@ -19,25 +19,22 @@
 
 ___
 
----
-title: Stack Tecnológico Conocido
-Stack Tecnológico Conocido:
-  colorFreezeLevel: 2
----
+## Stack Tecnológico Conocido
 
-## Sistemas Operativos
+### Sistemas Operativos
 
-- [Windows](https://www.microsoft.com/es-es/windows?r=1)
-- [Linux](https://www.linux.org/)
+- [**Windows**](https://www.microsoft.com/es-es/windows?r=1)
+- [**Linux**](https://www.linux.org/)
 
-  - [Mandrake](https://www.mandrakelinux.org/)
-  - [Ubuntu](https://ubuntu.com/download)
+  - [*Mandrake*](https://www.mandrakelinux.org/)
+  - [*Ubuntu*](https://ubuntu.com/download)
 
-- [IOS](https://www.apple.com/es/ios/ios-18/)
-- [ANDROID](https://www.android.com/intl/es_es/)
- ## Stack Técnologico Conocido
+- [**iOS**](https://www.apple.com/es/ios/ios-18/)
+- [**Android**](https://www.android.com/intl/es_es/)
+
+![](/https://www.google.com/imgres?q=sistemas%20operativos&imgurl=https%3A%2F%2Fwww.areatecnologia.com%2Finformatica%2Fimagenes%2Fso.jpg&imgrefurl=https%3A%2F%2Fwww.areatecnologia.com%2Fsistemas-operativos.htm&docid=-B6QrLGzyjcSNM&tbnid=tFsuE-MEverFpM&vet=12ahUKEwjcltLFpoSJAxX3RfEDHYnLBh0QM3oFCIYBEAA..i&w=627&h=277&hcb=2&ved=2ahUKEwjcltLFpoSJAxX3RfEDHYnLBh0QM3oFCIYBEAA)
  
- 
+ ![](/favicon.png)
  
  
  # SOBRE MI
