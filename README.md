@@ -4,7 +4,38 @@
 
  ## Datos Personales
 
- Actualmente estudiandoun [**Ciclo Formativo de Grado Superior**](https://www.todofp.es/que-estudiar/ciclos/grado-superior.html) en la modalidad de [**Desarrollo de Aplicaciones Multiplataforma**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
+ Actualmente estudiando un [**Ciclo Formativo de Grado Superior**](https://www.todofp.es/que-estudiar/ciclos/grado-superior.html) en la modalidad de [**Desarrollo de Aplicaciones Multiplataforma**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
+
+ ## Asignaturas Matrículadas
+
+ - Lenguaje de Marcas
+ - Entornos de Desarrollo
+ - Inglés Profesional
+ - Programación
+ - Sistemas Informáticos
+ - Bases de Datos
+ - Digitalización Aplicada al Sistema Productivo
+ - Itinerario personal para la empleabilidad
+
+___
+
+---
+title: Stack Tecnológico Conocido
+Stack Tecnológico Conocido:
+  colorFreezeLevel: 2
+---
+
+## Sistemas Operativos
+
+- [Windows](https://www.microsoft.com/es-es/windows?r=1)
+- [Linux](https://www.linux.org/)
+
+  - [Mandrake](https://www.mandrakelinux.org/)
+  - [Ubuntu](https://ubuntu.com/download)
+
+- [IOS](https://www.apple.com/es/ios/ios-18/)
+- [ANDROID](https://www.android.com/intl/es_es/)
+ ## Stack Técnologico Conocido
  
  
  
