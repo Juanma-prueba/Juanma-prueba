@@ -4,7 +4,7 @@
 
  ## Datos Personales
 
- Actualmente estudiando un [**Ciclo Formativo de Grado Superior**](https://www.todofp.es/que-estudiar/ciclos/grado-superior.html) en la modalidad de [**Desarrollo de Aplicaciones Multiplataforma**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html). a distancia en el centro [CIFPD La Conservera Ceuti](https://sites.google.com/view/fplaconservera)
+ Actualmente estudiando un [**Ciclo Formativo de Grado Superior**](https://www.todofp.es/que-estudiar/ciclos/grado-superior.html) en la modalidad de [**Desarrollo de Aplicaciones Multiplataforma**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html). a distancia en el centro [**CIFPD La Conservera Ceutí**](https://sites.google.com/view/fplaconservera)
 
  ## Asignaturas Matrículadas
 
