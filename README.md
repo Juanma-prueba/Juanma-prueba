@@ -35,7 +35,7 @@ ___
 
 ![foto sistemas operativos](https://www.areatecnologia.com/informatica/imagenes/so.jpg)
  
- ### Microsoft Office
+ ### [Microsoft Office](https://www.office.com/)
 
   - Word
   - Access
@@ -57,6 +57,12 @@ ___
 
 ![foto lenguaje de programacion](https://www.epitech-it.es/wp-content/uploads/2023/09/Lenguaje-de-programacion-facil.jpg)
 
+  ### Bases de Datos
+
+  - MySql
+  - Microsoft Access
+
+![foto de bases de datos](https://www.microtech.es/hubfs/37228729_m.jpg)
 
   
  
