@@ -17,6 +17,8 @@
  - Digitalización Aplicada al Sistema Productivo
  - Itinerario personal para la empleabilidad
 
+Os dejo un video informativo sobre el curso [🎓](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
+
 ___
 
 ## Stack Tecnológico del Curso
@@ -37,6 +39,7 @@ ___
 
  - **Programación**
    - Java
+  
 
 ![foto curso](https://cursosmultimedia.es/wp-content/uploads/2021/03/distancia-2.jpg)
 
