@@ -1,4 +1,4 @@
- # ¿Hola! Mi nombre es ==Juanma== y os voy a presentar mi perfil de GitHub.
+ # ¿Hola! Mi nombre es <mark>Juanma=</mark> y os voy a presentar mi perfil de GitHub.
 
  ___
 
