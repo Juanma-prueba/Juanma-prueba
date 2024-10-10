@@ -21,7 +21,24 @@ ___
 
 ## Stack Tecnológico del Curso
 
+- **Lenguaje de Marcas**
+  - Markdown
+  - YAML
+  - Latex y SVG
+  - HTML
 
+- **Bases de datos**
+  - MySql
+  - MariaDB
+ 
+ - **Entornos De Desarollo**
+   - Frameworks
+   - Maquinas Virtuales
+
+ - **Programación**
+   - Java
+
+![foto curso](https://cursosmultimedia.es/wp-content/uploads/2021/03/distancia-2.jpg)
 
 ___
 
