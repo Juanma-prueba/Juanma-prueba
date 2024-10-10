@@ -35,8 +35,16 @@ ___
 
 ![foto sistemas operativos](https://www.areatecnologia.com/informatica/imagenes/so.jpg)
  
- ![foto](/favicon.png)
- 
+ ### Microsoft Office
+
+  - Word
+  - Access
+  - PowerPoint
+  - Excel
+  - Outlook
+
+![foto office](https://as1.ftcdn.net/v2/jpg/05/83/83/20/1000_F_583832001_xlT7SoeStI743XpTQ2vErW44KJXz2orm.jpg)
+  
  
  # SOBRE MI
 
