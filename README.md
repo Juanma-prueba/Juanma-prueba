@@ -19,6 +19,12 @@
 
 ___
 
+## Stack Tecnológico del Curso
+
+
+
+___
+
 ## Stack Tecnológico Conocido
 
 ### Sistemas Operativos
