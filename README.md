@@ -24,6 +24,13 @@ ___
 
 ## Stack Tecnológico del Curso
 
+| **Lenguaje de Marcas** | **Bases de Datos** | **Entornos de Desarrollo** | **Programación** |
+| --- | ----------- | ------------- | -------------- | ------------------ |
+| Markdown | MySql |
+| YAML | MariaDB |
+| Latex y SVG |
+| HTML |
+
 - **Lenguaje de Marcas**
   - Markdown
   - YAML
