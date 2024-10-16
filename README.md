@@ -29,7 +29,7 @@ ___
 | Markdown               | MySql              | Framwroks                  | Java             |
 | YAML                   | MariaDB            | Máquinas Virtuales         |                  |
 | Latex y SVG            |                    |                            |                  |
-| HTML                   |:fire:              |:sweat_drops:               |:star:            |
+| HTML                   |                    |                            |                  |
 
 - **Lenguaje de Marcas**
   - Markdown
