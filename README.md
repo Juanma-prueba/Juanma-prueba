@@ -18,7 +18,7 @@
  - Itinerario personal para la empleabilidad
    
 
-*Os dejo un video informativo sobre el curso*  ------->  [:question:](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
+*OS DEJO UN VIDEO INFORMATIVO SOBRE EL CURSO*  ------->  [:question:](https://www.youtube.com/watch?v=3bjvG6Ku83k&ab_channel=Portaldefp).
 
 ___
 
@@ -116,6 +116,9 @@ ___
 - 💞️ Estoy buscando mejorar en el mundo laboral
 - 📫 Si quieres ponerte en contacto conmigo mandame un correo eléctronico
 
+
+# EN MANTENIMIENTO
+![foto de en mantenimiento](https://sistemas.tecnoderecho.com/wp-content/uploads/mantenimiento-web-e1488342654768.png)
 
 <!---
 Juanma-prueba/Juanma-prueba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
