@@ -1,3 +1,15 @@
+
+ 
+
+<!---
+ESTO FUE LA INTERACION CON CHATGPT PARA ADQUIRIR LA IMAGEN 
+https://chatgpt.com/share/6713f300-7d14-8009-beb0-c3c3bd0711fa
+
+
+
+---> 
+ 
+ 
  # ¿Hola! Mi nombre es <mark>Juanma</mark> y os voy a presentar mi perfil de GitHub.
 
  ___
